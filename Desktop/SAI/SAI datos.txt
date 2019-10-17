@@ -1,0 +1,10 @@
+URL ADMIN
+
+http://dev-dockerhost-dmz-07.dmz.exo.local/admin/
+
+User: exost
+Pass: exost
+
+URL Caller
+
+http://dev-dockerhost-dmz-07.dmz.exo.local/caller/
